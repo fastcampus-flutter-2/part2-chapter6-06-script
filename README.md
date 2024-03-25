@@ -1,0 +1,1 @@
+# part2-chapter6-06-script
